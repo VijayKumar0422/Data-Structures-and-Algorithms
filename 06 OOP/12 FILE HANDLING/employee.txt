@@ -1,0 +1,9 @@
+Name: vijay
+Salary: 20000
+-------------------
+Name: sanjay
+Salary: 50000
+-------------------
+Name: rahul
+Salary: 2000
+-------------------
