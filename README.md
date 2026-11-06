@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-A comprehensive rpository containing my implementation of all deeply Data Structures and algorithms.
+A comprehensive repository containing my implementation of all deeply Data Structures and algorithms.
